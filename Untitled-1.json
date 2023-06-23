@@ -1,0 +1,7 @@
+{
+    "name":"Test1",
+    "url":"www.google.com",
+    "username":"ubuntu",
+    "password":"ubuntu",
+    "activity":["step1","step2","step3","step4","step5"]
+}
